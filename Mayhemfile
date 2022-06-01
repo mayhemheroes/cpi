@@ -1,0 +1,6 @@
+project: rnshah9/cpi
+target: cpi
+tests: null
+
+cmds:
+  - cmd: /repo/cpi @@
