@@ -2,4 +2,4 @@ project: cpi
 target: cpi
 
 cmds:
-  - cmd: /repo/cpi @@
+  - cmd: /cpi @@
