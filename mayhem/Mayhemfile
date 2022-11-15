@@ -1,0 +1,5 @@
+project: cpi
+target: cpi
+
+cmds:
+  - cmd: /cpi @@
